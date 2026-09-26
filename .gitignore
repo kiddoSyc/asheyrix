@@ -5,4 +5,9 @@ logs/
 temp/
 database/*.json
 *.log
-.DS_Store
+
+# WhatsApp session data
+auth_info_baileys/
+session/
+sessions/
+creds.json
